@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Hello all, welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src = "/BannerGithub.png" alt = "A banner image with Sara Landis and tech stack, peach colored background with browser doodle to the right">
 
-<img src = "/BannerGithub.png" alt = "A banner image with Sara Landis and tech stack, peach colored background with browser doodle to the right>
+### Hello all, welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 About Me:
 
