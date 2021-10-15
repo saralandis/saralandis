@@ -34,7 +34,7 @@ Front End:
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=plastic" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=plastic" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=plastic" />
-  axios
+   <img alt="axios" src="https://img.shields.io/badge/axios?logo=axios&logoColor=white&style=plastic" />
 
 Back End:
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=plastic" />
