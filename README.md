@@ -61,7 +61,6 @@ Developer Tools:
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white&style=plastic" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
   <img alt="NPM" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
-
   <img alt="Git" src="https://img.shields.io/badge/git-e84e31?logo=git&logoColor=white&style=plastic" />
   <img alt="Husky" src="https://img.shields.io/badge/Husky-035e75?logo=husky&logoColor=white&style=plastic" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-f86e5f?logo=figma&logoColor=white&style=plastic" />
