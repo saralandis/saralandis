@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src = "/BannerGithub.png" alt = "A banner image with Sara Landis and tech stack, peach colored background with browser doodle to the right">
 
-#### Hello all, welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### Hello all, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <span> About Me: <img src = "https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width= "20px"></span>
 
