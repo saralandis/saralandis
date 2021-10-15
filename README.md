@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
 
 <img src = "/BannerGithub.png" alt = "A banner image with Sara Landis and tech stack, peach colored background with browser doodle to the right>
 
@@ -35,3 +36,5 @@ My Tech Stack:
  </p>
 
 Let's Connect!
+
+<p>
