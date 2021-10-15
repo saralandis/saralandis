@@ -48,13 +48,17 @@ Testing:
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white&style=plastic" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-f5e5aa?logo=chai&logoColor=white&style=plastic"/>
   <img alt="React-Testing-Library" src="https://img.shields.io/badge/-ReactTestingLibrary-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
-  CircleCI, K6, Loader.io, NGINX, Docker
+  <img alt="CircleCI" src="https://img.shields.io/badge/CircleCi-black?logo=circleCi&logoColor=white&style=plastic" />
+  <img alt="k6" src="https://img.shields.io/badge/K6-7961f6?logo=circleCi&logoColor=white&style=plastic" />
+  <img alt="Loader.io" src="https://img.shields.io/badge/loader.io-4777b5?logo=loader.io&logoColor=white&style=plastic" />
+  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-forestGreen?logo=nginx&logoColor=white&style=plastic" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1282a6?logo=docker&logoColor=white&style=plastic" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=plastic" />
 
 Developer Tools:
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white&style=plastic" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
-  <img alt="NPM" src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white&style=plastic" />
+  <img alt="NPM" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
   Git, npm Agile Methodologies, Husky, Figma, Trello, VSCode, Github Projects
  </p>
 
