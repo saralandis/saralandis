@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 # Hello all, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### About Me 👩🏻‍💼 😻 🏖️ :
-* Full Stack Software Engineer
-* Florida Based
-* Cat Mom
-* Open for new opportunities to flex my JS skills!
+I am a Full Stack Software Engineer based in Florida. Looking for opportunities to flex my JS skills and be the best cat mom out there. Always ready to talk JS or send you the many photos of my sleeping furbaby.
 
 
 #### Tech Stack 💻 👩‍💻 🤖:
@@ -41,5 +38,5 @@ Here are some ideas to get you started:
  </p>
 
 #### Let's Connect 🤝🏼 🌎 👔!
-* LinkedIn:
-* Email:
+* LinkedIn: <https://www.linkedin.com/in/sara-p-landis/>
+* Email: <saralandis5555@gmail.com>
