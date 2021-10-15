@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src = "/BannerGithub.png">
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, I am Sara!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
