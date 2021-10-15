@@ -47,7 +47,7 @@ Testing:
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white&style=plastic" />
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white&style=plastic" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-f5e5aa?logo=chai&logoColor=white&style=plastic"/>
-  <img alt="React-Testing-Library" src=" https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
+  <img alt="React-Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
   CircleCI, K6, Loader.io, NGINX, Docker
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=plastic" />
 
