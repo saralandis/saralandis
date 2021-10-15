@@ -27,6 +27,7 @@ I am a Full Stack Software Engineer based in Florida. Looking for opportunities 
 #### Tech Stack 💻 👩‍💻 🤖:
 
 <p>
+<br/>
 Front End:
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=plastic" />
@@ -48,7 +49,7 @@ Testing:
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white&style=plastic" />
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white&style=plastic" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-f5e5aa?logo=chai&logoColor=white&style=plastic"/>
-  <img alt="React-Testing-Library" src="https://img.shields.io/badge/-ReactTestingLibrary-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
+  <img alt="React-Testing-Library" src="https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
   <img alt="CircleCI" src="https://img.shields.io/badge/CircleCi-black?logo=circleCi&logoColor=white&style=plastic" />
   <img alt="k6" src="https://img.shields.io/badge/K6-7961f6?logo=circleCi&logoColor=white&style=plastic" />
   <img alt="Loader.io" src="https://img.shields.io/badge/loader.io-4777b5?logo=loader.io&logoColor=white&style=plastic" />
@@ -61,12 +62,12 @@ Developer Tools:
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
   <img alt="NPM" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
 
-  <img alt="Git" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
-  <img alt="Husky" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
-  <img alt="Figma" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
-  <img alt="Trello" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
-  <img alt="VSCode" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
-  <img alt="Github Projects" src="https://img.shields.io/badge/npm-c53635?logo=npm&logoColor=white&style=plastic" />
+  <img alt="Git" src="https://img.shields.io/badge/git-e84e31?logo=git&logoColor=white&style=plastic" />
+  <img alt="Husky" src="https://img.shields.io/badge/Husky-035e75?logo=husky&logoColor=white&style=plastic" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-f86e5f?logo=figma&logoColor=white&style=plastic" />
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-037bc6?logo=trello&logoColor=white&style=plastic" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-38a3ec?logo=vscode&logoColor=white&style=plastic" />
+  <img alt="Github Projects" src="https://img.shields.io/badge/Github%20Projects-black?logo=github&logoColor=white&style=plastic" />
  </p>
  <hr/>
 
