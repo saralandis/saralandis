@@ -40,7 +40,7 @@ Back End:
   <img alt="mySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
   <img alt="sequelize" src="https://img.shields.io/badge/sequelize-02aae7?logo=sequelizes&logoColor=white&style=plastic" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
-  mongoose
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-840002?logo=mongoose&logoColor=white&style=plastic" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic" />
 
 Testing:
