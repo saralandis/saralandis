@@ -1,27 +1,9 @@
-
-
-<!--
-**saralandis/saralandis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <img src = "/BannerGithub.png" alt = "A banner image with Sara Landis and tech stack, peach colored background with browser doodle to the right">
 
 # Hello all, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### About Me 👩🏻‍💼 😻 🏖️ :
-I am a Full Stack Software Engineer based in Florida. Looking for opportunities to flex my JS skills and be the best cat mom out there. Always ready to talk JS or send you the many photos of my sleeping furbaby.
+I am a Full Stack Software Engineer based in Florida. Looking for opportunities to flex my JS skills and be the best cat mom out there. Working front or back end, my goal is always to make the user experience intiutive, enjoyable to use, and approachable for new users. I am always ready to talk JS or send you the many photos of my chubby sleeping cat.
 <hr>
 
 #### Tech Stack 💻 👩‍💻 🤖:
