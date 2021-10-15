@@ -38,7 +38,7 @@ Back End:
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=plastic" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=plastic" />
   <img alt="mySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
-  sequelize
+  <img alt="sequelize" src="https://img.shields.io/badge/sequelize-02aae7?logo=sequelizes&logoColor=white&style=plastic" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" />
   mongoose
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic" />
