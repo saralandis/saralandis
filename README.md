@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 
 <img src = "/BannerGithub.png" alt = "A banner image with Sara Landis and tech stack, peach colored background with browser doodle to the right">
 
-## Hello all, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello all, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<span> About Me: <img src = "https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width= "20px"></span>
+#### About Me 👩🏻‍💼 😻 🏖️ :
 
 
-My Tech Stack:
+#### Tech Stack 💻 👩‍💻 🤖:
+
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -35,4 +36,6 @@ My Tech Stack:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
  </p>
 
-Let's Connect!
+#### Let's Connect 🤝🏼!
+LinkedIn:
+Email:
