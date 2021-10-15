@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hello all, welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-About Me:
+<span> About Me: <img src = "https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width= "20px"></span>
 
 
 My Tech Stack:
