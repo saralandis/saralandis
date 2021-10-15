@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 # Hello all, Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### About Me 👩🏻‍💼 😻 🏖️ :
+* Full Stack Software Engineer
+* Florida Based
+* Cat Mom
+* Open for new opportunities to flex my JS skills!
 
 
 #### Tech Stack 💻 👩‍💻 🤖:
@@ -36,6 +40,6 @@ Here are some ideas to get you started:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
  </p>
 
-#### Let's Connect 🤝🏼!
-LinkedIn:
-Email:
+#### Let's Connect 🤝🏼 🌎 👔!
+* LinkedIn:
+* Email:
