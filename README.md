@@ -47,13 +47,14 @@ Testing:
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white&style=plastic" />
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white&style=plastic" />
   <img alt="Chai" src="https://img.shields.io/badge/-Chai-f5e5aa?logo=chai&logoColor=white&style=plastic"/>
-  <img alt="React-Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
+  <img alt="React-Testing-Library" src="https://img.shields.io/badge/-ReactTestingLibrary-%23E33332?logo=testing-library&logoColor=white&style=plastic" />
   CircleCI, K6, Loader.io, NGINX, Docker
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=plastic" />
 
 Developer Tools:
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white&style=plastic" />
-   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=plastic" />
+  <img alt="NPM" src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white&style=plastic" />
   Git, npm Agile Methodologies, Husky, Figma, Trello, VSCode, Github Projects
  </p>
 
